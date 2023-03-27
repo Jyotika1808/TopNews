@@ -1,0 +1,93 @@
+.peoples {
+  height: 70vh;
+  width: 95vh;
+  position: relative;
+  /* padding-left:110px; */
+  left: -20vh;
+  top: 17vh;
+  margin-bottom: 30px;
+  /* background-image: black; */
+  margin-left: 50vh;
+  margin-right: 10vh;
+
+  filter: invert(12%);
+  border-radius: 100%;
+  /* justify-content: center; */
+
+}
+
+.card-img-top {
+  background-color: 'black';
+  border-radius: 25px;
+  border: 3px solid grey;
+}
+
+.card-img-top:hover {
+  /* border-radius: 15px; */
+  border: 3px solid rgb(33, 6, 151);
+  border-radius: 15px;
+  /* zoom: 3; */
+  image-rendering: crisp-edges;
+  image-orientation: flip;
+  border-image: stretch;
+  zoom: 2;
+}
+
+.btn btn-sm btn-dark:hover {
+  background-color: rgb(227, 227, 15);
+}
+
+.text-center {
+  font-size: 50px;
+  font-style: italic;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.card {
+  border: 2px solid rgba(0, 128, 0, 0);
+  padding: 15px 20px;
+  margin-top: 100px;
+}
+
+.card:hover {
+  background-color: black;
+  color: antiquewhite;
+  border-radius: 15px;
+}
+
+.logo {
+  height: 150px;
+  margin-right: 15px;
+  margin-top: 35px;
+}
+
+.head {
+  /* margin-top: 30px; */
+  height: 170px;
+  width: 100%;
+  justify-content: center;
+  /* margin-bottom: 45px; */
+  padding-left: 50px;
+  position: fixed;
+  z-index: 1;
+  border-radius: 25px;
+  background-color: rgba(78, 72, 72, 0.715);
+
+}
+
+.search {
+  border-radius: 10px;
+  width: 350px;
+  padding-left: 10px;
+  margin-left: 390px;
+  height: 40px;
+}
+
+.ttext-center {
+  width: 70px;
+  height: 50px;
+  margin: auto;
+  background: transparent;
+
+}
