@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TopNews/static/css/main.a90a6ad0.css",
+    "main.js": "/TopNews/static/js/main.6e4fc98b.js",
+    "static/js/787.4c026eef.chunk.js": "/TopNews/static/js/787.4c026eef.chunk.js",
+    "static/media/people.gif": "/TopNews/static/media/people.2a24c3d6f7eb06b98e78.gif",
+    "static/media/logo.png": "/TopNews/static/media/logo.74e8fa87ab1c93f74544.png",
+    "index.html": "/TopNews/index.html",
+    "main.a90a6ad0.css.map": "/TopNews/static/css/main.a90a6ad0.css.map",
+    "main.6e4fc98b.js.map": "/TopNews/static/js/main.6e4fc98b.js.map",
+    "787.4c026eef.chunk.js.map": "/TopNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90a6ad0.css",
+    "static/js/main.6e4fc98b.js"
+  ]
+}
